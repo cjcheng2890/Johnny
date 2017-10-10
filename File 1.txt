@@ -3,5 +3,5 @@ This is test file 1
 
 
 AAAA1111
-BBBB
+BBBB2222
 CCCC
